@@ -1,6 +1,20 @@
 # IDEs
 .idea
 
-# Temporary Files
-tmp
+# Temporary files
+.DS_Store
+.vagrant
+_build
 temp
+tmp
+
+# Binary files
+bin
+lib
+include
+
+# Logging and outputs
+.log
+.retry
+.terraform
+tests.out
